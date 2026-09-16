@@ -1,2 +1,2 @@
-# Pharmacophore-Study-on-FtsZ
-Raw data for publication
+# Molecular Docking Protocol Validation by Decoys
+
